@@ -1,6 +1,8 @@
 # trade_volume
 
-A new Flutter project.
+A new Flutter project about caculation trading volume , It's suitable for forex, crytpo and stock.
+<img width="232" alt="image" src="https://github.com/user-attachments/assets/b6ddd324-07bf-492b-a1de-c74e67b72b7c" />
+
 
 ## Getting Started
 
